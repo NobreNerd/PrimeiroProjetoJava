@@ -10,7 +10,12 @@ Este projeto é um simulador simples de operações bancárias feito em Java usa
 - Retirar valor (com verificação de saldo)
 - Menu interativo com scanner
 
-## Como executar
+## 🚀 Como Rodar o Projeto
 
-Compile e execute o arquivo `Desafio.java` com qualquer IDE ou terminal que suporte Java.
+Guia passo a passo para configurar e executar o projeto localmente.
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/NobreNerd/PrimeiroProjetoJava.git](https://github.com/NobreNerd/PrimeiroProjetoJava.git)
+    ```
 
